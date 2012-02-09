@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="about-zero" itemID="4f32f04f-00000671" lastModified="1328749799">
+  <timeline>
+    <DOMTimeline name="about-zero">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#002F42"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!12283 0|100 0!100 0[0 0 0 100!0 100|0 10982!0 10982[0 11082 100 11082!100 11082|12283 11082!12283 11082[12383 11082 12383 10982!12383 10982|12383 100!12383 100[12383 0 12283 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="468.4" height="379.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="73.7" ty="117.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>You'll notice that unlike other counting Robots, Numby counts down to Zero rather than one.&#xD;&#xD;Why did we make Numby aware of Zero?  &#xD;First of all, Zero is an important number. Someone even wrote an entire book about it! &#xD;&#xD;But there's also a more personal reason. Counting seems like such a simple thing to do, but even we computer coders make silly mistakes. &#xD;&#xD;While most people start counting from 1, in computer programs we typically start counting from 0. Sometimes that gets us coders in trouble because we forget that counting from 0 to 10 takes 11 steps (not 10!).  Try counting up to 10 with your fingers, but start from 0..1..2..3.. and you'll see! &#xD;&#xD;By playing with Numby, we hope our kids will always remember that 0 is a number just like any other.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="470.95" height="34.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="72" ty="57.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Why Numby cares about Zero</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="29" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

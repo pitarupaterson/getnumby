@@ -1,0 +1,111 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="masthead" itemID="4f32c532-00000397" lastModified="1328750756" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="masthead">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!8937.5 4860S2|9217 4860"/>
+                    <Edge fillStyle0="1" edges="!9217 4860|9760 4317!9760 4317|9792 4317!9792 4317|10335 4860"/>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!10335 4860S2|10614.5 4860"/>
+                    <Edge fillStyle0="1" edges="!10614.5 4860|11156 4317!11156 4317|11188 4317!11188 4317|11731 4860"/>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!11731 4860S2|12011 4860"/>
+                    <Edge fillStyle0="1" edges="!12011 4860|12553 4317!12553 4317|12585 4317!12585 4317|13127 4860"/>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!13127 4860S2|13403 4860"/>
+                    <Edge fillStyle0="1" edges="!13403 4860|13945 4317!13945 4317|13981 4317!13981 4317|14524 4860"/>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!14524 4860S2|14800 4860"/>
+                    <Edge fillStyle0="1" edges="!14800 4860|15342 4317!15342 4317|15360 4317!15360 4317|15360 11!15360 11|0 11!0 11|0 4317!0 4317|16 4317!16 4317|559 4860"/>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!559 4860S2|839 4860"/>
+                    <Edge fillStyle0="1" edges="!839 4860|1381 4317!1381 4317|1413 4317!1413 4317|1956 4860"/>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!1956 4860S2|2236 4860"/>
+                    <Edge fillStyle0="1" edges="!2236 4860|2778 4317!2778 4317|2810 4317!2810 4317|3352 4860"/>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!3352 4860S2|3632 4860"/>
+                    <Edge fillStyle0="1" edges="!3632 4860|4175 4317!4175 4317|4207 4317!4207 4317|4748.5 4860"/>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!4748.5 4860S2|5028 4860"/>
+                    <Edge fillStyle0="1" edges="!5028 4860|5571 4317!5571 4317|5603 4317!5603 4317|6145 4860"/>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!6145 4860S2|6425 4860"/>
+                    <Edge fillStyle0="1" edges="!6425 4860|6967 4317!6967 4317|6999 4317!6999 4317|7542 4860"/>
+                    <Edge fillStyle0="1" fillStyle1="1" edges="!7542 4860S2|7822 4860"/>
+                    <Edge fillStyle0="1" edges="!7822 4860|8364 4317!8364 4317|8396 4317!8396 4317|8937.5 4860"/>
+                    <Edge fillStyle1="1" edges="!9217 4860S2|9077 5000!9077 5000|8937.5 4860!7822 4860|7682 5000!7682 5000|7542 4860!12011 4860|11871 5000!11871 5000|11731 4860!10614.5 4860|10475 5000!10475 5000|10335 4860!2236 4860|2096 5000!2096 5000|1956 4860!839 4860|699 5000!699
+ 5000|559 4860!6425 4860|6285 5000!6285 5000|6145 4860!5028 4860|4888 5000!4888 5000|4748.5 4860!3632 4860|3492 5000!3492 5000|3352 4860!14800 4860|14662 4998!14662 4998|14524 4860!13403 4860|13265 4998!13265 4998|13127 4860"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="the-counting-robot-type" centerPoint3DX="384" centerPoint3DY="173.75">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="218" ty="168.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="221.35" y="7.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#01374D"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" parentLayerIndex="0" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.78125" d="0.78125" tx="384" ty="112"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFCC" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!15360 -8000|15360 12480!15360 12480|0 12480!0 12480|0 -8000!0 -8000|15360 -8000"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="title_screen_/numby_type" centerPoint3DX="573.85" centerPoint3DY="153.25">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="384" ty="106.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="94.5625047669027" color="#01374D" quality="3" strength="0.27"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

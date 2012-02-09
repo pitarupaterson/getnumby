@@ -1,0 +1,163 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="numby-shot-cta" itemID="4f32c5c6-000003a4" lastModified="1328759790" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="numby-shot-cta">
+      <layers>
+        <DOMLayer name="Layer 1" color="#0000FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="narrative-hand-drawn" centerPoint3DX="136.45" centerPoint3DY="245">
+                  <matrix>
+                    <Matrix tx="5.6" ty="201.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="130.85" y="43.2"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter strength="0.04"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="252.5" height="87.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="7.5" ty="205.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>There's nothing that Numby would rather do than count to ten and back again. For every rainbow in the sky, he counts the colors he can spy.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="17" bitmapSize="340" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="numby-shot" color="#FF800A" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="IMG_0292.PNG">
+                  <matrix>
+                    <Matrix tx="-384"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" locked="true" visible="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!684 14696|2 15379!2 15379|-681 14696!-681 14696|-713 14696!-713 14696|-1395 15379!-1395 15379|-2077 14696!-2077 14696|-2109 14696!-2109 14696|-2792 15379!-2792 15379|-3473 14696!-3473 14696|-3505 14696!-3505 14696|-4188 15379!-4188 15379
+|-4870 14696!-4870 14696|-4902 14696!-4902 14696|-5584 15379!-5584 15379|-6267 14696!-6267 14696|-6299 14696!-6299 14696|-6981 15379!-6981 15379|-7664 14696!-7664 14696|-7680 14696!-7680 14696|-7680 -5784!-7680 -5784|7680 -5784!7680 -5784
+|7680 14696!7680 14696|7662 14696!7662 14696|6982 15377!6982 15377|6301 14696!6301 14696|6265 14696!6265 14696|5585 15377!5585 15377|4905 14696!4905 14696|4873 14696!4873 14696|4191 15379!4191 15379|3508 14696!3508 14696|3476 14696!3476
+ 14696|2795 15379!2795 15379|2112 14696!2112 14696|2080 14696!2080 14696|1397 15379!1397 15379|716 14696!716 14696|684 14696"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 14" color="#808080" parentLayerIndex="3" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="CTA2" centerPoint3DX="-166.05" centerPoint3DY="405.5">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-208.6" ty="346.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter strength="0.07"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F" parentLayerIndex="3" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="bg_/blue_bg.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="601.615737915039" d="20" tx="-497.15" ty="23"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-5100 460|-5100 20940!-5100 20940|-9943 20940!-9943 20940|-9943 460!-9943 460|-5100 460"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F" parentLayerIndex="3" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="robot_/robot" centerPoint3DX="149" centerPoint3DY="583.15">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="96.15" ty="592.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="70.45" y="-11.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF" parentLayerIndex="3" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="bg_/blue_bg.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-255" ty="23"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!10260 20940|-5100 20940!-5100 20940|-5100 460!-5100 460|10260 460!10260 460|10260 20940"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

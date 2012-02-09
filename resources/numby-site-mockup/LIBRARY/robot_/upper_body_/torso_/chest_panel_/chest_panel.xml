@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="robot_/upper_body_/torso_/chest_panel_/chest_panel" itemID="4f170785-0000038b" sourceFlashFilepath="../../of_preRelease_v007_iphone/apps/insertsilence/Robo-OpenFrameworks/bin/data/robot_assets/robot_assets.xfl" sourceLibraryItemHRef="robot_/upper_body_/torso_/chest_panel_/chest_panel" sourceLastModified="1326909429" lastModified="1326909429" sourceItemID="00000000-7fffffff">
+  <timeline>
+    <DOMTimeline name="chest_panel">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/chest_panel_/chest-panel0001.png">
+                  <matrix>
+                    <Matrix tx="-60" ty="-60.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/chest_panel_/chest-panel0002.png">
+                  <matrix>
+                    <Matrix tx="-60" ty="-60.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/chest_panel_/chest-panel0003.png">
+                  <matrix>
+                    <Matrix tx="-60" ty="-60.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/chest_panel_/chest-panel0004.png">
+                  <matrix>
+                    <Matrix tx="-60" ty="-60.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/chest_panel_/chest-panel0005.png">
+                  <matrix>
+                    <Matrix tx="-60" ty="-60.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/chest_panel_/chest-panel0006.png">
+                  <matrix>
+                    <Matrix tx="-60" ty="-60.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/chest_panel_/chest-panel0007.png">
+                  <matrix>
+                    <Matrix tx="-60" ty="-60.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/chest_panel_/chest-panel0008.png">
+                  <matrix>
+                    <Matrix tx="-60" ty="-60.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

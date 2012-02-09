@@ -1,0 +1,251 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="robot_/upper_body_/torso_/faceplate_/faceplate" itemID="445758f9-0000006d" lastModified="1327088316" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="faceplate">
+      <layers>
+        <DOMLayer name="faceplate_bit" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0001.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-40"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0002.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0003.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0004.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0005.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0006.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0007.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0008.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0009.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0010.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0011.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0012.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0013.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0014.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_0015.png">
+                  <matrix>
+                    <Matrix tx="-31" ty="-39.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="faceplate_vec" color="#4FFF4F" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" tweenType="shape" keyMode="17922" acceleration="100">
+              <MorphShape>
+                <morphSegments/>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMSymbolInstance libraryItemName="robot_/upper_body_/torso_/faceplate_/faceplate_graphic">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="13" tweenType="shape" keyMode="17922" acceleration="-100">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#FFFFFE.11, -0.5078125" startPointB="#FFFFFE.11, -0.5078125" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="#FFFFFE.1F, -0.6796875" anchorPointA="-1.828125, #FFFFFF.25" controlPointB="#FFFFFE.1F, -0.6796875" anchorPointB="-1.828125, #FFFFFF.25" isLine="true"/>
+                    <MorphCurves controlPointA="-1.8203125, #FFFFFF.23" anchorPointA="#FFFFFE.2F, #FFFFFF.23" controlPointB="-1.8203125, #FFFFFF.23" anchorPointB="#FFFFFE.2F, #FFFFFF.23"/>
+                    <MorphCurves controlPointA="-1.765625, -0.90625" anchorPointA="#FFFFFE.47, -0.9453125" controlPointB="-1.765625, -0.90625" anchorPointB="#FFFFFE.47, -0.9453125"/>
+                    <MorphCurves controlPointA="#FFFFFE.73, #FFFFFE.ED" anchorPointA="#FFFFFE.B3, #FFFFFE.C3" controlPointB="#FFFFFE.73, #FFFFFE.ED" anchorPointB="#FFFFFE.B3, #FFFFFE.C3"/>
+                    <MorphCurves controlPointA="-1.296875, -1.2421875" anchorPointA="-1.2890625, -1.2421875" controlPointB="-1.296875, -1.2421875" anchorPointB="-1.2890625, -1.2421875"/>
+                    <MorphCurves controlPointA="-1.265625, -1.2578125" anchorPointA="#FFFFFE.C3, #FFFFFE.BB" controlPointB="-1.265625, -1.2578125" anchorPointB="#FFFFFE.C3, #FFFFFE.BB"/>
+                    <MorphCurves controlPointA="#FFFFFE.CB, -1.2734375" anchorPointA="#FFFFFE.D1, -1.2734375" controlPointB="#FFFFFE.CB, -1.2734375" anchorPointB="#FFFFFE.D1, -1.2734375"/>
+                    <MorphCurves controlPointA="#FFFFFE.D3, -1.28125" anchorPointA="-1.171875, -1.28125" controlPointB="#FFFFFE.D3, -1.28125" anchorPointB="-1.171875, -1.28125"/>
+                    <MorphCurves controlPointA="#FFFFFE.D5, -1.28125" anchorPointA="-1.1640625, -1.28125" controlPointB="#FFFFFE.D5, -1.28125" anchorPointB="-1.1640625, -1.28125" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFE.D7, #FFFFFE.B9" anchorPointA="#FFFFFE.D7, -1.2734375" controlPointB="#FFFFFE.D7, #FFFFFE.B9" anchorPointB="#FFFFFE.D7, -1.2734375" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFF.0F, #FFFFFE.CD" anchorPointA="#FFFFFF.41, -1.0546875" controlPointB="#FFFFFF.0F, #FFFFFE.CD" anchorPointB="#FFFFFF.41, -1.0546875"/>
+                    <MorphCurves controlPointA="#FFFFFF.5B, -1.0078125" anchorPointA="#FFFFFF.77, -0.9765625" controlPointB="#FFFFFF.5B, -1.0078125" anchorPointB="#FFFFFF.77, -0.9765625"/>
+                    <MorphCurves controlPointA="-0.4453125, #FFFFFF.0B" anchorPointA="-0.296875, -1.0234375" controlPointB="-0.4453125, #FFFFFF.0B" anchorPointB="-0.296875, -1.0234375"/>
+                    <MorphCurves controlPointA="#FFFFFF.BF, -1.1015625" anchorPointA="#FFFFFF.C9, -1.1796875" controlPointB="#FFFFFF.BF, -1.1015625" anchorPointB="#FFFFFF.C9, -1.1796875" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFF.BF, -1.34375" anchorPointA="#0.14, -1.7734375" controlPointB="#FFFFFF.BF, -1.34375" anchorPointB="#0.14, -1.7734375"/>
+                    <MorphCurves controlPointA="#0.0E, -1.90625" anchorPointA="#0.1F, -1.9921875" controlPointB="#0.0E, -1.90625" anchorPointB="#0.1F, -1.9921875"/>
+                    <MorphCurves controlPointA="#0.1C, -2.1796875" anchorPointA="#0.2F, -2.28125" controlPointB="#0.1C, -2.1796875" anchorPointB="#0.2F, -2.28125"/>
+                    <MorphCurves controlPointA="#0.39, -2.3203125" anchorPointA="#0.43, -2.34375" controlPointB="#0.39, -2.3203125" anchorPointB="#0.43, -2.34375"/>
+                    <MorphCurves controlPointA="#0.81, -2.5546875" anchorPointA="#0.D7, #FFFFFD.45" controlPointB="#0.81, -2.5546875" anchorPointB="#0.D7, #FFFFFD.45"/>
+                    <MorphCurves controlPointA="#0.D9, #FFFFFD.43" anchorPointA="#0.DC, -2.7421875" controlPointB="#0.D9, #FFFFFD.43" anchorPointB="#0.DC, -2.7421875"/>
+                    <MorphCurves controlPointA="#1.2F, #FFFFFD.15" anchorPointA="#1.27, #FFFFFD.25" controlPointB="#1.2F, #FFFFFD.15" anchorPointB="#1.27, #FFFFFD.25"/>
+                    <MorphCurves controlPointA="1.25, #FFFFFD.27" anchorPointA="#1.59, -2.84375" controlPointB="1.25, #FFFFFD.27" anchorPointB="#1.59, -2.84375" isLine="true"/>
+                    <MorphCurves controlPointA="#1.49, #FFFFFE.23" anchorPointA="#1.1B, #FFFFFF.0B" controlPointB="#1.49, #FFFFFE.23" anchorPointB="#1.1B, #FFFFFF.0B"/>
+                    <MorphCurves controlPointA="#1.66, #FFFFFF.9D" anchorPointA="#1.C4, #0.45" controlPointB="#1.66, #FFFFFF.9D" anchorPointB="#1.C4, #0.45"/>
+                    <MorphCurves controlPointA="#1.C4, #0.46" anchorPointA="#1.C6, #0.48" controlPointB="#1.C4, #0.46" anchorPointB="#1.C6, #0.48"/>
+                    <MorphCurves controlPointA="#1.DB, #0.6B" anchorPointA="#1.EF, #0.9" controlPointB="#1.DB, #0.6B" anchorPointB="#1.EF, #0.9"/>
+                    <MorphCurves controlPointA="#1.E5, #0.9B" anchorPointA="#1.DB, #0.A5" controlPointB="#1.E5, #0.9B" anchorPointB="#1.DB, #0.A5" isLine="true"/>
+                    <MorphCurves controlPointA="#1.C1, #0.B2" anchorPointA="#1.A9, #0.C2" controlPointB="#1.C1, #0.B2" anchorPointB="#1.A9, #0.C2"/>
+                    <MorphCurves controlPointA="#1.27, #1.15" anchorPointA="#0.C1, #1.58" controlPointB="#1.27, #1.15" anchorPointB="#0.C1, #1.58"/>
+                    <MorphCurves controlPointA="#0.B4, #1.4B" anchorPointA="#0.A6, #1.42" controlPointB="#0.B4, #1.4B" anchorPointB="#0.A6, #1.42"/>
+                    <MorphCurves controlPointA="#0.4F, #1.08" anchorPointA="#0.14, #0.BB" controlPointB="#0.4F, #1.08" anchorPointB="#0.14, #0.BB"/>
+                    <MorphCurves controlPointA="#0.08, #0.C3" anchorPointA="-0.015625, #0.CB" controlPointB="#0.08, #0.C3" anchorPointB="-0.015625, #0.CB" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFF.E7, #0.D8" anchorPointA="#FFFFFF.E7, #0.F3" controlPointB="#FFFFFF.E7, #0.D8" anchorPointB="#FFFFFF.E7, #0.F3"/>
+                    <MorphCurves controlPointA="-0.1953125, #1.78" anchorPointA="#FFFFFF.C3, #1.F8" controlPointB="-0.1953125, #1.78" anchorPointB="#FFFFFF.C3, #1.F8"/>
+                    <MorphCurves controlPointA="-0.4140625, #2.3D" anchorPointA="-0.5390625, #2.5D" controlPointB="-0.4140625, #2.3D" anchorPointB="-0.5390625, #2.5D"/>
+                    <MorphCurves controlPointA="-1.015625, 2.5" anchorPointA="#FFFFFE.6F, #2.E" controlPointB="-1.015625, 2.5" anchorPointB="#FFFFFE.6F, #2.E"/>
+                    <MorphCurves controlPointA="-1.59375, #2.D6" anchorPointA="#FFFFFE.61, #2.CB" controlPointB="-1.59375, #2.D6" anchorPointB="#FFFFFE.61, #2.CB" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFE.77, #2.6E" anchorPointA="-1.453125, #2.32" controlPointB="#FFFFFE.77, #2.6E" anchorPointB="-1.453125, #2.32"/>
+                    <MorphCurves controlPointA="-1.328125, #1.83" anchorPointA="-1.390625, #0.DA" controlPointB="-1.328125, #1.83" anchorPointB="-1.390625, #0.DA"/>
+                    <MorphCurves controlPointA="#FFFFFE.93, #0.7" anchorPointA="#FFFFFE.B9, #0.2A" controlPointB="#FFFFFE.93, #0.7" anchorPointB="#FFFFFE.B9, #0.2A"/>
+                    <MorphCurves controlPointA="#FFFFFE.A7, #0.0A" anchorPointA="#FFFFFE.93, -0.0546875" controlPointB="#FFFFFE.A7, #0.0A" anchorPointB="#FFFFFE.93, -0.0546875"/>
+                    <MorphCurves controlPointA="-1.546875, #FFFFFF.CB" anchorPointA="-1.671875, -0.3203125" controlPointB="-1.546875, #FFFFFF.CB" anchorPointB="-1.671875, -0.3203125"/>
+                    <MorphCurves controlPointA="-1.796875, -0.40625" anchorPointA="#FFFFFE.11, -0.5078125" controlPointB="-1.796875, -0.40625" anchorPointB="#FFFFFE.11, -0.5078125"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!47 -584[57 -594 67 -600!67 -600[129 -654 215 -699!215 -699[217 -701 220 -702!220 -702[303 -747 295 -731!295 -731|345 -728!345 -728[329 -477 283 -245!283 -245[358 -99 452 69!452 69[452 70 454 72!454 72[475 107 495 144!495 144|475 165
+!475 165[449 178 425 194!425 194[295 277 193 344!193 344[180 331 166 322!166 322[79 264 20 187!20 187|-4 203!-4 203[-25 216 -25 243!-25 243[-50 376 -61 504!-61 504[-106 573 -138 605!-138 605[-260 640 -401 736!-401 736|-415 715!-415 715
+[-393 622 -372 562!-372 562[-340 387 -356 218!-356 218[-365 112 -327 42!-327 42[-345 10 -365 -14!-365 -14[-396 -53 -428 -82!-428 -82[-460 -104 -495 -130!-495 -130|-468 -219!-468 -219[-466 -221 -465 -221!-465 -221[-452 -232 -441 -242!-441
+ -242[-397 -275 -333 -317!-333 -317[-332 -318 -330 -318!-330 -318[-324 -322 -317 -325!-317 -325[-309 -326 -303 -326!-303 -326[-301 -328 -300 -328!-300 -328|-298 -328!-298 -328|-297 -326!-297 -326[-241 -307 -191 -270!-191 -270[-165 -258
+ -137 -250!-137 -250[-114 -245 -76 -262!-76 -262|-55 -302!-55 -302[-65 -344 20 -454!20 -454[14 -488 31 -510!31 -510[28 -558 47 -584"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#B0ECFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!283 -245[358 -99 452 69!452 69[452 70 454 72!454 72[475 107 495 144!495 144|475 165!475 165[449 178 425 194!425 194[295 277 193 344!193 344[180 331 166 322!166 322[79 264 20 187!20 187|-4 203!-4 203[-25 216 -25 243!-25 243[-50 376 -61
+ 504!-61 504[-106 573 -138 605!-138 605[-260 640 -401 736!-401 736|-415 715!-415 715[-393 622 -372 562!-372 562[-340 387 -356 218!-356 218[-365 112 -327 42!-327 42[-345 10 -365 -14!-365 -14[-396 -53 -428 -82!-428 -82[-460 -104 -495 -130
+!-495 -130|-468 -219!-468 -219[-466 -221 -465 -221!-465 -221[-452 -232 -441 -242!-441 -242[-397 -275 -333 -317!-333 -317[-332 -318 -330 -318!-330 -318[-324 -322 -317 -325!-317 -325[-309 -326 -303 -326!-303 -326[-301 -328 -300 -328!-300
+ -328|-298 -328!-298 -328|-297 -326!-297 -326[-241 -307 -191 -270!-191 -270[-165 -258 -137 -250!-137 -250[-114 -245 -76 -262!-76 -262|-55 -302!-55 -302[-65 -344 20 -454!20 -454[14 -488 31 -510!31 -510[28 -558 47 -584!47 -584[57 -594 67
+ -600!67 -600[129 -654 215 -699!215 -699[217 -701 220 -702!220 -702[303 -747 295 -731!295 -731|345 -728!345 -728[329 -477 283 -245"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

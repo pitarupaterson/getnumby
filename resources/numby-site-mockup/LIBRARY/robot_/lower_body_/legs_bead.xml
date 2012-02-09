@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="robot_/lower_body_/legs_bead" itemID="4f170d24-00000493" sourceFlashFilepath="../../of_preRelease_v007_iphone/apps/insertsilence/Robo-OpenFrameworks/bin/data/robot_assets/robot_assets.xfl" sourceLibraryItemHRef="robot_/lower_body_/legs_bead" sourceLastModified="1326910756" lastModified="1326910756" sourceItemID="00000000-7fffffff">
+  <timeline>
+    <DOMTimeline name="legs_bead">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

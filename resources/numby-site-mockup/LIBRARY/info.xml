@@ -1,0 +1,305 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="info" itemID="4f32ca0a-00000403" lastModified="1328750786" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="info" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;380&lt;/guideline&gt;&lt;guideline direction="v"&gt;68&lt;/guideline&gt;&lt;guideline direction="v"&gt;690&lt;/guideline&gt;&lt;guideline direction="v"&gt;323&lt;/guideline&gt;&lt;guideline direction="h"&gt;522&lt;/guideline&gt;&lt;guideline direction="h"&gt;157&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Layer 9" color="#4FFF4F" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#B4D3E4"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!1380 9389|13803 9389"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 13" color="#4FFFFF" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="numby-headshot" selected="true" centerPoint3DX="177.95" centerPoint3DY="217">
+                  <matrix>
+                    <Matrix tx="67.95" ty="136"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="110" y="81"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90.0898443058422" blurX="19.73046875" blurY="19.73046875" quality="3" strength="0.17"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" visible="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!12582 1602|13264 919!13264 919|13947 1602!13947 1602|13979 1602!13979 1602|14661 919!14661 919|15344 1602!15344 1602|15360 1602!15360 1602|15360 24657.5!15360 24657.5|15337.5 24658!15337.5 24658|15360 24658!15360 24658|15360 35202!15360
+ 35202|15342 35202!15342 35202|14662 35883!14662 35883|13981 35202!13981 35202|13945 35202!13945 35202|13265 35883!13265 35883|12585 35202!12585 35202|12553 35202!12553 35202|11871 35885!11871 35885|11188 35202!11188 35202|11156 35202
+!11156 35202|10475 35885!10475 35885|9792 35202!9792 35202|9760 35202!9760 35202|9077 35885!9077 35885|8396 35202!8396 35202|8364 35202!8364 35202|7682 35885!7682 35885|6999 35202!6999 35202|6967 35202!6967 35202|6285 35885!6285 35885
+|5603 35202!5603 35202|5571 35202!5571 35202|4888 35885!4888 35885|4207 35202!4207 35202|4175 35202!4175 35202|3492 35885!3492 35885|2810 35202!2810 35202|2778 35202!2778 35202|2096 35885!2096 35885|1413 35202!1413 35202|1381 35202!1381
+ 35202|699 35885!699 35885|16 35202!16 35202|0 35202!0 35202|0 1602!0 1602|18 1602!18 1602|698 921!698 921|1379 1602!1379 1602|1415 1602!1415 1602|2095 921!2095 921|2775 1602!2775 1602|2807 1602!2807 1602|3489 919!3489 919|4172 1602!4172
+ 1602|4204 1602!4204 1602|4885 919!4885 919|5568 1602!5568 1602|5600 1602!5600 1602|6283 919!6283 919|6964 1602!6964 1602|6996 1602!6996 1602|7678 919!7678 919|8361 1602!8361 1602|8393 1602!8393 1602|9075 919!9075 919|9757 1602!9757 1602
+|9789 1602!9789 1602|10472 919!10472 919|11153 1602!11153 1602|11185 1602!11185 1602|11868 919!11868 919|12550 1602!12550 1602|12582 1602"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ipad" color="#FF4F4F" parentLayerIndex="2" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ipad" centerPoint3DX="176.4" centerPoint3DY="298">
+                  <matrix>
+                    <Matrix tx="-10.05" ty="115.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="186.45" y="182.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90.0898374756532" blurX="13.95703125" blurY="13.95703125" quality="3" strength="0.48"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF" parentLayerIndex="2">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="james-and-amit-pic" centerPoint3DX="178.55" centerPoint3DY="603.65">
+                  <matrix>
+                    <Matrix tx="68.55" ty="522.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="110" y="81"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90.0898443058422" blurX="19.73046875" blurY="19.73046875" quality="3" strength="0.17"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="intro" color="#9933CC" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="363.45" height="146.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="322.7" ty="205.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Seeing each of our young kids learn to count sparked our imagination. We wanted to explore the simple act of counting from </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>zero</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#28BAED"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> to ten in weird and wonky ways. That's how Numby was born.&#xD;&#xD;We'll continue to teach him new tricks in small increments, and surprise you with updates.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="315.95" height="34.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="324" ty="522.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>About Pitaru Paterson</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="29" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="327.95" height="34.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="324" ty="156.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>About Numby</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="29" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="about-zero" centerPoint3DX="416.55" centerPoint3DY="1374.75">
+                  <matrix>
+                    <Matrix tx="71" ty="1097.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="345.55" y="277.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90.0898374756532" blurX="13.95703125" blurY="13.95703125" quality="3" strength="0.1"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="more about pitaru paterson" color="#4FFFFF" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="365.45" height="485.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="321.7" ty="572.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Hi! we're James Paterson and Amit Pitaru. &#xD;We love to make art and to code, and especially to mix the two together.&#xD;&#xD;Numby is our first collaborative iPad app, but we've been making stuff together for a while. Over the years chasing our imaginations has lead us into the strange lands of </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>drawing</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#28BAED"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>, </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>music</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#28BAED"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>, </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>animation</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#28BAED"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>, and even </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>dance</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#28BAED"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> projects. &#xD;&#xD;If we could only show you three things, they would be: &#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Delight</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#28BAED"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> - a short animation that remembers the real meaning of the word 'delight' (as sometimes we adults forget!).&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Rhonda the 3D drawing tool</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#28BAED"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> - See James draw with our special 3D pen and paper.&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Smashup the dance project</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#28BAED"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> - Don't worry, we're not dancing in this clip.&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" size="16" bitmapSize="320" face="ChaparralPro-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFF4F" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#023F57"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!15360 919|15360 35485!15360 35485|0 35485!0 35485|0 919!0 919|15360 919"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
