@@ -7,18 +7,102 @@
 			body {
 				background-color:#FFFEEB;
 				margin: 0px;
+				font-family:"Georgia", Times, serif;
+				color: #ffffff;
+				//font-family: sans-serif;
+			}
+			a {
+				color: #25b5e9;
 			}
 			#container {
-				width: 768px;
+				width: 767px;
 				margin:0px auto;
 				text-align:left;
+			}
+			#info {
+				float: left;
+				background-color:#023f57;
+				width:767px;
+				padding-top: 40px;
+				padding-bottom: 20px;
+				//position:relative;
+				//height: 400px;
+			}
+			.info-block {
+				//background-color:#ff0000;
+				//position:relative;
+				//padding-top: 40px;
+				padding-left: 48px;
+				margin-bottom: 40px;
+				float: left;
+			}
+			.info-block-image {
+				float: left;
+			}
+			.info-block-text {
+				float: left;
+				//background-color:#ff0000;
+				text-align:justify;
+				text-justify:inter-word;
+				padding-left: 40px;
+				width: 360px;
+			}
+			.info-block-nb {
+				background-color:#002f42;	
+				//text-align: center;
+				margin-left: 20px;
+				padding: 10px 30px;
+				//margin-right: 20px;
+				width: 590px;
 			}
 		</style>
 	</head>
 	<body>
 		<div id="container">
-			<img src="top.png" alt="Top" />
-			<img src="numby-site-mockup-bg-creme-tighter-INSANECTA_-1.png" alt="Big Numby Pic!" />
+
+			<img src="top.png" alt="Top" border="0" usemap="#Map"/>
+            <map name="Map" id="Map" title="Get Numby for iPad at the Apple App Store">
+              <area shape="rect" coords="53,395,295,472" href="http://www.apple.com/mac/app-store/" target="_self" alt="Get Numby for iPad at the Apple App Store" />
+            </map>
+		  <div id="info">
+  <div class="info-block">
+					<div class="info-block-image"><img src="ipad-w-rainbow-numby.png" alt="Top" title="For every rainbow in the sky, he counts the colors he can spy"./></div>
+					<div class="info-block-text">
+						<h2>About Numby</h2>
+						<p>Seeing each of our young kids learn to count sparked our imagination. We wanted to explore the simple act of counting from <a href="#zero" title="Why does Numby care about Zero?">zero</a> to ten in weird and wonky ways. That's how Numby was born.</p>
+						<p>We'll continue to teach him new tricks in small increments, and surprise you with updates.</p>
+
+						
+					</div>
+			</div>
+				<div class="info-block">
+					<div class="info-block-image"><img src="amit-james.png" alt="Top" title="left: Amit Pitaru, right: James Paterson"/></div>
+					<div class="info-block-text">
+					  <h2>About Pitaru Paterson</h2>
+						<p>Hi! we're Amit Pitaru and James Paterson. We love to make art and to code, and especially to mix the two together.</p>
+						<p>Numby is our first collaborative iPad app, but we've been making stuff together for a while. Over the years chasing our imaginations has lead us into the strange lands of drawing, music, animation, and even dance projects.</p>
+						<p>If we could only show you three things, they would be: 
+						<p></p>
+							<ul>
+								<li><a href="http://insertsilence.com/delight/" target="_self" title="Watch Delight">Delight</a> - a short animation that remembers the real meaning of the word 'delight' (as sometimes we adults forget!).</li>
+						    <li><a href="http://rhondaforever.com/" title="Visit Rhonda site">Rhonda the 3D drawing tool</a> - See James draw with our special 3D pen and paper.</li>
+								<li><a href="http://vimeo.com/3826197" target="_self" title="Watch Smashup: Chain Reaction">Smashup the dance project</a> - Don't worry, we're not dancing in this clip.</li>
+							</ul>
+						</p>
+					</div>
+				</div>
+				<div class="info-block">
+					<div class="info-block-nb">
+						<h2><a name="zero" id="zero"></a>Why Numby Cares About Zero</h2>
+						<p>You'll notice that unlike other counting Robots, Numby counts down to Zero rather than one.
+				    <p>Why did we make Numby aware of Zero? First of all, Zero is an important number. Someone even wrote an entire <a href="http://www.amazon.com/Zero-Biography-Dangerous-Charles-Seife/dp/0140296476" target="_self" title="Zero: The Biography of a Dangerous Idea">book about it</a>!</p>
+ 						<p>But there's also a more personal reason. Counting seems like such a simple thing to do, but even we computer coders make silly mistakes. </p>
+ 						<p>While most people start counting from 1, in computer programs we typically start counting from 0. Sometimes that gets us coders in trouble because we forget that counting from 0 to 10 takes 11 steps (not 10!).  Try counting up to 10 with your fingers, but start from 0..1..2..3.. and you'll see! </p>
+ 						<p>By playing with Numby, we hope our kids will always remember that 0 is a number just like any other.</p>	
+					</div>
+				</div>
+			</div>
+            <a href="http://pitarupaterson.com" target="_self"><img src="footer.png" alt="Top" title="Visit Pitaru Paterson"/></a>
 		</div>
 	</body>
 </html>
