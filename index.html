@@ -11,8 +11,8 @@
 
     <style type="text/css">
       body {
-/*        padding-top: 60px;
-        padding-bottom: 40px;*/
+        padding-top: 60px;
+        padding-bottom: 40px;
       }
 
       .rowwy {
@@ -21,7 +21,22 @@
       }
 
       .heady {
-        margin-top: 40px;
+        width: 320px;
+        /*margin-top: 20px;*/
+        margin-bottom: 20px;
+        text-align: center;
+      }
+
+      .elevator p {
+        margin-left: 10px;
+        font-size: 1.8em;
+        line-height: 1.2em;
+        margin-bottom: 20px;
+        /*text-align: center;*/
+      }
+
+      .vid {
+        width: 400px;
       }
 
       .movie {
@@ -35,12 +50,17 @@
         margin-bottom: 40px;
       }
 
+      .ifreezy {
+        width: 400px;
+        height: 564px;
+      }
+
 /*      .screenshot {
         margin-bottom: 40px;
       }*/
     </style>
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
-    <!-- <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet"> -->
+    <link href="bootstrap/css/responsive.css" rel="stylesheet">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -48,51 +68,45 @@
     <![endif]-->
 
     <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="images/favicon.ico">
+<!--     <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"> -->
   </head>
 
   <body>
 
     <div class="container">
 
-      <!-- <img src="assets/img/header.png" class="rowwy"> -->
-
-<!--           <div class="hero-unit rowwy">
-            <img src="assets/img/header.png" class=""> -->
-<!--             <h1>Hello, world!</h1>
-            <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-            <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p> -->
-          <!-- </div> -->
-
-      <!-- Main hero unit for a primary marketing message or call to action -->
-<!--       <div class="hero-unit">
-        <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
-      </div> -->
-
-
+  
 
 <!--       <div class="row">
         <div class="span12 rowwy">
-          
-
-
-
-
+          <img src="assets/img/header.png" class="heady">
         </div>
       </div> -->
 
-  
+      <div class="row rowwy">
 
-      <div class="row">
-        <div class="span12 rowwy">
-          <img src="assets/img/header.png" class="heady">
+        <div class="span6 offset0">
+            <div class="well vid">
+              <iframe src="http://www.youtube.com/embed/Zk2EDi2H82E?rel=0" frameborder="0" allowfullscreen class="ifreezy"></iframe>
+            </div>
         </div>
-      </div>
+
+        <div class="span6 offset0 elevator">
+          <!-- <h2>About Numby</h2> -->
+          <img src="assets/img/header-solo.png" class="heady">
+          <p>Seeing each of our young kids learn to count sparked our imagination. <a href="#we" title="Who are Pitaru Paterson?">We</a> wanted to explore the simple act of counting from <a href="#zero" title="Why does Numby care about Zero?">zero</a> to ten in weird and wonky ways.</p>
+          <p>We'll continue to teach him new tricks and surprise you with updates.</p>
+          <a href="http://itunes.apple.com/ca/app/numby/id499958256"><img src="assets/img/app-store-badge-260.png"></a>
+        </div>
+
+
+
+
+        
+      </div>  
 
 
       <div class="row rowwy">
@@ -120,35 +134,17 @@
       </div>  
 
 
-      <div class="row rowwy">
 
-        <div class="span4 offset1">
-
-            <iframe width="300" height="430" src="http://www.youtube.com/embed/Zk2EDi2H82E?rel=0" frameborder="0" allowfullscreen></iframe>
-
-        </div>
-
-        <div class="span5 offset1">
-
-          <h2>About Numby</h2>
-          <p>Seeing each of our young kids learn to count sparked our imagination. We wanted to explore the simple act of counting from <a href="#zero" title="Why does Numby care about Zero?">zero</a> to ten in weird and wonky ways.</p>
-          <p>We'll continue to teach him new tricks and surprise you with updates.</p>
-          <a href="http://itunes.apple.com/ca/app/numby/id499958256"><img src="assets/img/app-store-badge-260.png"></a>
-
-
-        </div>
-        
-      </div>  
 
       <hr>
       </br>  
 
       <div class="row rowwy">
 
-        <div class="span5">
+        <div class="span4 offset1">
 
 
-          <h2>About Pitaru Paterson</h2>
+          <h2 name="we" id="we">About Pitaru Paterson</h2>
           <p>Hi! we're Amit Pitaru and James Paterson. We love to make art and to code, and especially to mix the two together.</p>
           <img src="assets/img/amit_james.gif" class="well">
 
@@ -165,7 +161,7 @@
 
         </div>
 
-        <div class="span5 offset2">
+        <div class="span4 offset2">
 
 
           <h2><a name="zero" id="zero"></a>Why Numby Cares About Zero</h2>
@@ -196,19 +192,7 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="bootstrap/js/jquery.js"></script>
-    <script src="bootstrap/js/bootstrap-transition.js"></script>
-    <script src="bootstrap/js/bootstrap-alert.js"></script>
-    <script src="bootstrap/js/bootstrap-modal.js"></script>
-    <script src="bootstrap/js/bootstrap-dropdown.js"></script>
-    <script src="bootstrap/js/bootstrap-scrollspy.js"></script>
-    <script src="bootstrap/js/bootstrap-tab.js"></script>
-    <script src="bootstrap/js/bootstrap-tooltip.js"></script>
-    <script src="bootstrap/js/bootstrap-popover.js"></script>
-    <script src="bootstrap/js/bootstrap-button.js"></script>
-    <script src="bootstrap/js/bootstrap-collapse.js"></script>
-    <script src="bootstrap/js/bootstrap-carousel.js"></script>
-    <script src="bootstrap/js/bootstrap-typeahead.js"></script>
+
 
   </body>
 </html>
