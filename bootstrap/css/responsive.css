@@ -125,6 +125,10 @@
     padding-top: 60px;
     padding-bottom: 40px;
   }
+  .ifreezy {
+    width: 200px;
+    height: 30px;
+  }
 }
 @media (max-width: 767px) {
   body {
@@ -198,9 +202,6 @@
   .ifreezy {
     width: 300px;
     height: 430px;
-  }
-  .vid {
-    width: 300px;
   }
   body {
     padding-top: 60px;
@@ -419,13 +420,6 @@
   }
   input.span1, textarea.span1, .uneditable-input.span1 {
     width: 32px;
-  }
-  .ifreezy {
-    width: 300px;
-    height: 430px;
-  }
-  .vid {
-    width: 300px;
   }
   .ifreezy {
     width: 300px;
