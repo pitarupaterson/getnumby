@@ -4202,7 +4202,7 @@ footer {
   font-size: 1.4em;
 }
 .row-top {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   /*text-align: center;*/
 
 }
@@ -4235,6 +4235,7 @@ footer {
   -webkit-box-shadow: 0 1px 20px rgba(0,0,0,.1);
   -moz-box-shadow: 0 1px 20px rgba(0,0,0,.1);
   box-shadow: 0 1px 20px rgba(0,0,0,.1);
+  margin-bottom: 20px;
 }
 .movie {
   /*        width: 768px;
