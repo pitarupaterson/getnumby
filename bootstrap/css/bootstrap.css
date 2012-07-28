@@ -4216,6 +4216,10 @@ footer {
   /*text-align: center;*/
 
 }
+.ifreezy {
+  width: 400px;
+  height: 564px;
+}
 .vid {
   width: 400px;
 }
@@ -4228,10 +4232,6 @@ footer {
 }
 .cta {
   margin-bottom: 40px;
-}
-.ifreezy {
-  width: 400px;
-  height: 564px;
 }
 .well {
   padding: 30px;
