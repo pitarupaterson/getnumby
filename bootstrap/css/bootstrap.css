@@ -4197,6 +4197,9 @@ footer {
 .info {
   padding: 0px 30px 80px 30px;
 }
+.info h2 {
+  margin-bottom: 20px;
+}
 .row-top {
   margin-bottom: 100px;
   /*text-align: center;*/
@@ -4210,7 +4213,7 @@ footer {
 }
 .elevator p {
   margin-left: 10px;
-  font-size: 1.5em;
+  font-size: 1.4em;
   line-height: 1.2em;
   margin-bottom: 20px;
   /*text-align: center;*/
@@ -4219,9 +4222,6 @@ footer {
 .ifreezy {
   width: 400px;
   height: 564px;
-}
-.vid {
-  width: 400px;
 }
 .movie {
   /*        width: 768px;
