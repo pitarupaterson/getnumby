@@ -4239,6 +4239,13 @@ footer {
   -moz-border-radius: 15px;
   border-radius: 15px;
 }
+.info-pic {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
 .pull-right {
   float: right;
 }
