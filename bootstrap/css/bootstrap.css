@@ -4188,6 +4188,7 @@ body {
   padding-bottom: 40px;
 }
 footer {
+  margin-top: 40px;
   text-align: center;
 }
 .app-store {
@@ -4195,13 +4196,18 @@ footer {
   margin-bottom: 20px;
 }
 .info {
-  padding: 0px 30px 80px 30px;
+  padding: 0px 30px 00px 30px;
 }
 .info h2 {
-  margin-bottom: 20px;
+  font-size: 1.4em;
 }
 .row-top {
-  margin-bottom: 100px;
+  margin-bottom: 40px;
+  /*text-align: center;*/
+
+}
+.row-ipad-shots {
+  margin-top: 40px;
   /*text-align: center;*/
 
 }
@@ -4222,6 +4228,13 @@ footer {
 .ifreezy {
   width: 400px;
   height: 564px;
+  padding: 20px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 20px rgba(0,0,0,.1);
+  -moz-box-shadow: 0 1px 20px rgba(0,0,0,.1);
+  box-shadow: 0 1px 20px rgba(0,0,0,.1);
 }
 .movie {
   /*        width: 768px;
@@ -4245,6 +4258,12 @@ footer {
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
+}
+.span-ipad-shot {
+  text-align: center;
+}
+.ipad-shot {
+  margin-bottom: 20px;
 }
 .pull-right {
   float: right;
